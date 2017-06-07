@@ -11,3 +11,9 @@ datasets too.
     - which public/ok-to-share resource they came from,
     - what code was needed to convert them from "raw" to "tame", and
     - what the license is on the data (so that a future CRAN version of the package with that data is a thing).
+    
+# Sources to begin
+
+- https://github.com/caesar0301/awesome-public-datasets
+    - Need help documenting which of these are actually "awesome"
+    - A Google Sheet going through and categorizing them as useful or not would be helpful
