@@ -1,4 +1,4 @@
-# rawdata
+# tameData
 An R package providing interesting examples for use in R instead of mtcars, iris, and diamonds
 
 # Ideas
